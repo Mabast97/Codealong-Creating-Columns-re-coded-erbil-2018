@@ -71,3 +71,13 @@ figcaption {
   color: red;
 }
 
+#featured-property {
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+
+
+
